@@ -105,3 +105,40 @@ button {
     position: relative;
     bottom: -100px;
 }
+
+.table {
+    width: 1200px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 12px;
+}
+
+.plant-image {
+    width: 600px;
+    height: 400px;
+}
+
+.accordion {
+    width: 1200px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.accordion-button {
+    background: #18382B;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.wishlist {
+    width: 1200px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.wish-image {
+    height: 200px;
+}

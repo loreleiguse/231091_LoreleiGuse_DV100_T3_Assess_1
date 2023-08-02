@@ -101,3 +101,32 @@ $("#plantsContainer").on('click', '.card', function(){
 
 });
 
+$("#remove1").click(function(){
+
+  $("#list1").remove();
+
+})
+
+$("#remove2").click(function(){
+
+  $("#list2").remove();
+
+})
+
+$("#remove3").click(function(){
+
+  $("#list3").remove();
+
+})
+
+$("#remove4").click(function(){
+
+  $("#list4").remove();
+
+})
+
+$("#remove5").click(function(){
+
+  $("#list5").remove();
+
+})
